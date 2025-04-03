@@ -1,6 +1,6 @@
 import React from 'react';
 import './global.css'; // CSS faylini import qilganingizga ishonch hosil qiling
-import Calculator from './Components/Calculator';
+import Calculator from './components/Calculator';
 
 
 function App() {
